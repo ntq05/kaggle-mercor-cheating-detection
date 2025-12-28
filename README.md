@@ -22,7 +22,7 @@ The submission requires predicting probabilities for each candidate and finding 
 ---
 
 ## 📂 Repository Structure
-
+```
 ├── Datasets/ # Raw and processed datasets (original datasets not included due to size)
 | ├── Graph_train.csv # Processed train dataset with graph features
 | ├── Graph_test.csv # Processed test dataset with graph features
@@ -33,7 +33,7 @@ The submission requires predicting probabilities for each candidate and finding 
 | ├── Mercor_Fraud_Add_Graph_Features.ipynb # Feature Engineering Notebook
 | ├── Mercor_Fraud_Models_Graph_Features.ipynb # Model Building Notebook
 ├── README.md
-
+```
 ---
 
 ## 🔧 Pipeline
