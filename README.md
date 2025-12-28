@@ -1,5 +1,6 @@
 # Mercor Cheating Detection Kaggle Competition  
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue)  
+[View on GitHub](https://github.com/ntq05/kaggle-mercor-cheating-detection)
 
 This repository contains my solution for the **Mercor Cheating Detection** Kaggle competition. The goal of this competition is to **predict whether a candidate is engaging in cheating behavior during online interviews**, using anonymized behavioral features, platform activity signals, and a social graph. The evaluation metric is **cost-sensitive**, reflecting the real-world operational impact of false negatives, false positives, and manual review decisions.
 
